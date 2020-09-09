@@ -21,3 +21,5 @@ https://paperswithcode.com/task/multiple-instance-learning (Links to an external
 https://medium.com/center-for-data-science/approaching-sound-event-detection-as-a-multiple-instance-learning-problem-3165abdfc7cc (Links to an external site.)
 
 https://www.sciencedirect.com/science/article/abs/pii/S0167865519302971 (Links to an external site.)
+
+Everything should be published in github with proper readme - with proper access control for me to grade. Please ensure all assets are there (run of the colab properly shown)

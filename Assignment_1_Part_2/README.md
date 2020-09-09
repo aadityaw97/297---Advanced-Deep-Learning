@@ -21,3 +21,5 @@ Sample colab for the paper '; https://github.com/google-research/noisystudent (L
 https://github.com/CuriousAI/mean-teacher (Links to an external site.)
 
 https://github.com/yassouali/awesome-semi-supervised-learning
+
+Everything should be published in github with proper readme - with proper access control for me to grade. Please ensure all assets are there (run of the colab properly shown)
